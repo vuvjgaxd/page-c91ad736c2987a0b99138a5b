@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--nerwo-h02in7kr99adn1a.com/sitemap.xml

@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c7a1dcd08341cdb4b59ceea7",
+  "owner": "vuvjgaxd",
+  "repo": "page-c91ad736c2987a0b99138a5b",
+  "title": "FastPass",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c91ad736c2987a0b99138a5b",
+      "a": "FastPass",
+      "b": "稳定全球clash加速器",
+      "entity": "FastPass",
+      "brand": "FastPass",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f1db7f98041fc8ff33b88f30bacf1a0697b4b7bae82c5ccb9fb39f18755c86d9",
+      "content": {
+        "primary_entity": "FastPass",
+        "keyword1": "FastPass",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，获取订阅后导入即可开始配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，导入订阅就能开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，支持多设备订阅配置，覆盖基础流媒体与游戏加速线路，套餐按流量和设备数区分，适合个人与小型团队选择。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与订阅周期三个维度挑选合适方案。",
+          "AI_FEATURES_TITLE": "选择套餐的要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，比按月订阅节省明显。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏优化与原生流媒体解锁，团队版提供 VIP 高带宽节点与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "周期与价格",
+          "AI_FEATURE_TITLE_3": "线路与权益差异",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅导入，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "FastPass 提供多档流量与设备方案，覆盖基础流媒体与游戏加速线路，按设备导入订阅即可连接使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版兼顾流媒体与游戏，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先明确常用设备数量和每月大致流量，在基础版、旗舰版、团队版中初步筛选。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、节点类型与流媒体或游戏加速权益是否匹配使用场景。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按对应客户端文档导入配置并选择节点连接。",
+          "AI_STEP_TITLE_1": "确定需求",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "FastPass 套餐速览",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机加电脑的日常组合；旗舰版 5 台覆盖更多终端，团队版 20 台可满足小型工作室需求。",
+          "AI_FAQ_ANSWER_2": "在客户端中粘贴订阅链接后更新配置即可，Clash、Shadowrocket、v2rayN 与 sing-box 都支持订阅导入，具体操作可参考各客户端文档。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB。流量按自然月重置，日常浏览与流媒体使用可参考对应档位选择。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线与游戏加速优化，节点池更全，适合对延迟和稳定性有要求的场景；基础版使用普通线路节点池。",
+          "AI_FAQ_ANSWER_5": "年付方案比月付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合确定长期使用的个人或团队。",
+          "AI_FAQ_QUESTION_1": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "各套餐的月流量分别是多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版相比基础版多了哪些能力？",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--nerwo-h02in7kr99adn1a.com",
+    "host": "xn--nerwo-h02in7kr99adn1a.com"
+  },
+  "file_hashes": {
+    "index.html": "738310f59e25763d5a4e2872ee7c083820087c19de03961aab833a7fe0eb804a",
+    "sitemap.xml": "35b4d90670b59bcebe3ae5891bfababf2a61311349dc135df336dc43162c59e0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bf813cd1c2aeb1138346518a504ffa519d84d308a6603fce2721e8d362adb246",
+    "robots.txt": "a7649db95cce33e89f63fc70a889adf2cc2f570010edf9c452cdbcccd976e260",
+    "0b3c05f45f5484496d9e6a8195ae8060.txt": "7c8703657f360e4a79cff7e70eea6bed2dde5c8f86a447c805222520c638ff1c"
+  },
+  "revision": "3b709bfb8857a2e3acc5671eef111258a068daeba838a02315b744a019263a3d"
+}
